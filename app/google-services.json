@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600598982423",
+    "firebase_url": "https://blogapp-5caba.firebaseio.com",
+    "project_id": "blogapp-5caba",
+    "storage_bucket": "blogapp-5caba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600598982423:android:e612d2cf731eed65",
+        "android_client_info": {
+          "package_name": "com.example.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600598982423-kt25voknc3hjfgsma3vv9s3c31i5vt52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blogapp",
+            "certificate_hash": "482af4230c45b8a098704c7ae7d29e6f81f30389"
+          }
+        },
+        {
+          "client_id": "600598982423-3rgaq218sahgaj6phcbedrmi28rtjo0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChemKqMdkTJ7HzBRE57kijyYg2yP81ALo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600598982423-3rgaq218sahgaj6phcbedrmi28rtjo0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
